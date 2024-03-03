@@ -1,8 +1,8 @@
 name = "raw-medium"
 compatibility_date = "2023-12-01"
 
-# [vars]
-# MY_VARIABLE = "production_value"
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMWYwYmUzZTctZGUzMi00MzE1LWIwMjctZTRkYTkxMmMzMDE2IiwidGVuYW50X2lkIjoiNWNkM2JjYzViMmUwYzk4ODQwYmFmYzkxNmUyNzdhNGFiZjM3MmEzYzQ5MmU0ZDY3M2MyZTUyNjc4ZWQxNjRmZiIsImludGVybmFsX3NlY3JldCI6ImVkOTEwZmFlLTcxMjgtNGJiZi05N2YwLTY1NTZiYTU2MmNkZSJ9.INuYhWiZjQa5NRfDsjEixSrAlapOPos4JaAhx2XbJlY"
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
